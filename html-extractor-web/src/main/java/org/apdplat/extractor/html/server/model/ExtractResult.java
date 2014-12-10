@@ -18,7 +18,7 @@
  * 
  */
 
-package org.apdplat.extractor.html.model;
+package org.apdplat.extractor.html.server.model;
 
 import java.util.ArrayList;
 import java.util.List;
